@@ -1,0 +1,17 @@
+{
+  "name": "tonejsmid-converter",
+  "version": "0.1.0",
+  "description": "Convert MIDI files to Tone.js JSON format",
+  "main": "convert-midi-to-tonejs-json.js",
+  "scripts": {
+    "convert": "node convert-midi-to-tonejs-json.js"
+  },
+  "bin": {
+    "convert-midi-to-tonejs-json": "./convert-midi-to-tonejs-json.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@tonejs/midi": "^2.0.27"
+  }
+}
