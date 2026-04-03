@@ -27,4 +27,4 @@ This repository includes a small utility to convert a MIDI file in the same fold
 `node convert-midi-to-tonejs-json.js [path/to/file.mid]`
 
 - If no argument is provided, the script picks the first `.mid` or `.midi` file in the current working directory.
-- Output is `inputname.tonejs.json`.
+- Output is `inputname.tonejs.json`. Thanks for using this!
